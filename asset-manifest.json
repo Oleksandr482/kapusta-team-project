@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/Kapusta-FRONT-END/static/css/main.fdbcd4b9.css",
-    "main.js": "/Kapusta-FRONT-END/static/js/main.0744ced8.js",
-    "static/js/195.5e2f618b.chunk.js": "/Kapusta-FRONT-END/static/js/195.5e2f618b.chunk.js",
-    "static/js/543.11a3969b.chunk.js": "/Kapusta-FRONT-END/static/js/543.11a3969b.chunk.js",
-    "static/js/779.2e7b8f05.chunk.js": "/Kapusta-FRONT-END/static/js/779.2e7b8f05.chunk.js",
-    "static/js/203.dc515d10.chunk.js": "/Kapusta-FRONT-END/static/js/203.dc515d10.chunk.js",
+    "main.js": "/Kapusta-FRONT-END/static/js/main.a8208a6d.js",
+    "static/css/225.502ad072.chunk.css": "/Kapusta-FRONT-END/static/css/225.502ad072.chunk.css",
+    "static/js/225.d6d307cd.chunk.js": "/Kapusta-FRONT-END/static/js/225.d6d307cd.chunk.js",
+    "static/js/543.1025a8e4.chunk.js": "/Kapusta-FRONT-END/static/js/543.1025a8e4.chunk.js",
+    "static/js/570.e053d89a.chunk.js": "/Kapusta-FRONT-END/static/js/570.e053d89a.chunk.js",
+    "static/js/281.5536202b.chunk.js": "/Kapusta-FRONT-END/static/js/281.5536202b.chunk.js",
     "static/js/568.348ce80d.chunk.js": "/Kapusta-FRONT-END/static/js/568.348ce80d.chunk.js",
-    "static/js/409.100470f0.chunk.js": "/Kapusta-FRONT-END/static/js/409.100470f0.chunk.js",
+    "static/js/435.53aa826f.chunk.js": "/Kapusta-FRONT-END/static/js/435.53aa826f.chunk.js",
+    "static/media/kapustaDesc-Bottom.svg": "/Kapusta-FRONT-END/static/media/kapustaDesc-Bottom.3b23bd3861ce322ee3b1dfecf3b6b962.svg",
     "static/media/kapustaTab.svg": "/Kapusta-FRONT-END/static/media/kapustaTab.fd6f2fc179a6b7052e650bdaada91a94.svg",
     "static/media/kapustaTab-bottom.svg": "/Kapusta-FRONT-END/static/media/kapustaTab-bottom.25c71bc5bd0bc5f662facf6edf35bb4d.svg",
     "static/media/Google.svg": "/Kapusta-FRONT-END/static/media/Google.8b7beb5cadafef8a917fdf20617c7cab.svg",
@@ -20,19 +22,19 @@
     "index.html": "/Kapusta-FRONT-END/index.html",
     "static/media/logout.svg": "/Kapusta-FRONT-END/static/media/logout.bde7ea51d65470190b21886710692baf.svg",
     "static/media/CloseIconSvg.svg": "/Kapusta-FRONT-END/static/media/CloseIconSvg.d4f61c998499712092e5b31e74b83780.svg",
-    "static/media/main.svg": "/Kapusta-FRONT-END/static/media/main.8616407ae2c848099afed2ec7f6d2583.svg",
     "static/media/ReportsSvg.svg": "/Kapusta-FRONT-END/static/media/ReportsSvg.e2b6fdf5e973e2fc56329ff7ba1c9dab.svg",
     "main.fdbcd4b9.css.map": "/Kapusta-FRONT-END/static/css/main.fdbcd4b9.css.map",
-    "main.0744ced8.js.map": "/Kapusta-FRONT-END/static/js/main.0744ced8.js.map",
-    "195.5e2f618b.chunk.js.map": "/Kapusta-FRONT-END/static/js/195.5e2f618b.chunk.js.map",
-    "543.11a3969b.chunk.js.map": "/Kapusta-FRONT-END/static/js/543.11a3969b.chunk.js.map",
-    "779.2e7b8f05.chunk.js.map": "/Kapusta-FRONT-END/static/js/779.2e7b8f05.chunk.js.map",
-    "203.dc515d10.chunk.js.map": "/Kapusta-FRONT-END/static/js/203.dc515d10.chunk.js.map",
+    "main.a8208a6d.js.map": "/Kapusta-FRONT-END/static/js/main.a8208a6d.js.map",
+    "225.502ad072.chunk.css.map": "/Kapusta-FRONT-END/static/css/225.502ad072.chunk.css.map",
+    "225.d6d307cd.chunk.js.map": "/Kapusta-FRONT-END/static/js/225.d6d307cd.chunk.js.map",
+    "543.1025a8e4.chunk.js.map": "/Kapusta-FRONT-END/static/js/543.1025a8e4.chunk.js.map",
+    "570.e053d89a.chunk.js.map": "/Kapusta-FRONT-END/static/js/570.e053d89a.chunk.js.map",
+    "281.5536202b.chunk.js.map": "/Kapusta-FRONT-END/static/js/281.5536202b.chunk.js.map",
     "568.348ce80d.chunk.js.map": "/Kapusta-FRONT-END/static/js/568.348ce80d.chunk.js.map",
-    "409.100470f0.chunk.js.map": "/Kapusta-FRONT-END/static/js/409.100470f0.chunk.js.map"
+    "435.53aa826f.chunk.js.map": "/Kapusta-FRONT-END/static/js/435.53aa826f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdbcd4b9.css",
-    "static/js/main.0744ced8.js"
+    "static/js/main.a8208a6d.js"
   ]
 }
