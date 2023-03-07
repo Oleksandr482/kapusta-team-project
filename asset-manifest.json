@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.fdbcd4b9.css",
-    "main.js": "/static/js/main.92254fd3.js",
-    "static/js/473.af204360.chunk.js": "/static/js/473.af204360.chunk.js",
-    "static/js/522.2b67a8ef.chunk.js": "/static/js/522.2b67a8ef.chunk.js",
-    "static/js/666.c9fa5c86.chunk.js": "/static/js/666.c9fa5c86.chunk.js",
+    "main.js": "/static/js/main.ff30f83b.js",
+    "static/js/473.ceb18583.chunk.js": "/static/js/473.ceb18583.chunk.js",
+    "static/js/522.66d130e3.chunk.js": "/static/js/522.66d130e3.chunk.js",
+    "static/js/666.3adebede.chunk.js": "/static/js/666.3adebede.chunk.js",
     "static/css/940.30ee0e86.chunk.css": "/static/css/940.30ee0e86.chunk.css",
     "static/js/940.9d4a1315.chunk.js": "/static/js/940.9d4a1315.chunk.js",
     "static/js/568.348ce80d.chunk.js": "/static/js/568.348ce80d.chunk.js",
@@ -27,10 +27,10 @@
     "static/media/main.svg": "/static/media/main.8616407ae2c848099afed2ec7f6d2583.svg",
     "static/media/ReportsSvg.svg": "/static/media/ReportsSvg.a6f45d069458dc5c19af9140f819f02a.svg",
     "main.fdbcd4b9.css.map": "/static/css/main.fdbcd4b9.css.map",
-    "main.92254fd3.js.map": "/static/js/main.92254fd3.js.map",
-    "473.af204360.chunk.js.map": "/static/js/473.af204360.chunk.js.map",
-    "522.2b67a8ef.chunk.js.map": "/static/js/522.2b67a8ef.chunk.js.map",
-    "666.c9fa5c86.chunk.js.map": "/static/js/666.c9fa5c86.chunk.js.map",
+    "main.ff30f83b.js.map": "/static/js/main.ff30f83b.js.map",
+    "473.ceb18583.chunk.js.map": "/static/js/473.ceb18583.chunk.js.map",
+    "522.66d130e3.chunk.js.map": "/static/js/522.66d130e3.chunk.js.map",
+    "666.3adebede.chunk.js.map": "/static/js/666.3adebede.chunk.js.map",
     "940.30ee0e86.chunk.css.map": "/static/css/940.30ee0e86.chunk.css.map",
     "940.9d4a1315.chunk.js.map": "/static/js/940.9d4a1315.chunk.js.map",
     "568.348ce80d.chunk.js.map": "/static/js/568.348ce80d.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.fdbcd4b9.css",
-    "static/js/main.92254fd3.js"
+    "static/js/main.ff30f83b.js"
   ]
 }
